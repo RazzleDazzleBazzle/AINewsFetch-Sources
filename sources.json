@@ -1,1 +1,340 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "name": "Concrete Playground Melbourne",
+      "url": "https://concreteplayground.com/melbourne/feed",
+      "type": "independent",
+      "country": "AU",
+      "state": "Victoria",
+      "city": "Melbourne",
+      "weight": 0.72
+    },
+    {
+      "name": "CBD News Melbourne",
+      "url": "https://cbdnews.com.au/feed",
+      "type": "independent",
+      "country": "AU",
+      "state": "Victoria",
+      "city": "Melbourne",
+      "weight": 0.65
+    },
+    {
+      "name": "Docklands News",
+      "url": "https://www.docklandsnews.com.au/feed",
+      "type": "independent",
+      "country": "AU",
+      "state": "Victoria",
+      "city": "Melbourne",
+      "weight": 0.6
+    },
+    {
+      "name": "Concrete Playground Sydney",
+      "url": "https://concreteplayground.com/sydney/feed",
+      "type": "independent",
+      "country": "AU",
+      "state": "New South Wales",
+      "city": "Sydney",
+      "weight": 0.72
+    },
+    {
+      "name": "Concrete Playground Brisbane",
+      "url": "https://concreteplayground.com/brisbane/feed",
+      "type": "independent",
+      "country": "AU",
+      "state": "Queensland",
+      "city": "Brisbane",
+      "weight": 0.72
+    },
+    {
+      "name": "Brisbane Times",
+      "url": "https://www.brisbanetimes.com.au/rss/feed.xml",
+      "type": "mainstream",
+      "country": "AU",
+      "state": "Queensland",
+      "city": "Brisbane",
+      "weight": 0.78
+    },
+    {
+      "name": "Concrete Playground Perth",
+      "url": "https://concreteplayground.com/perth/feed",
+      "type": "independent",
+      "country": "AU",
+      "state": "Western Australia",
+      "city": "Perth",
+      "weight": 0.72
+    },
+    {
+      "name": "PerthNow",
+      "url": "https://www.perthnow.com.au/news/feed",
+      "type": "mainstream",
+      "country": "AU",
+      "state": "Western Australia",
+      "city": "Perth",
+      "weight": 0.75
+    },
+    {
+      "name": "WAtoday",
+      "url": "https://www.watoday.com.au/rss/feed.xml",
+      "type": "mainstream",
+      "country": "AU",
+      "state": "Western Australia",
+      "city": "Perth",
+      "weight": 0.75
+    },
+    {
+      "name": "Concrete Playground Adelaide",
+      "url": "https://concreteplayground.com/adelaide/feed",
+      "type": "independent",
+      "country": "AU",
+      "state": "South Australia",
+      "city": "Adelaide",
+      "weight": 0.72
+    },
+    {
+      "name": "Canberra Times",
+      "url": "https://www.canberratimes.com.au/rss.xml",
+      "type": "mainstream",
+      "country": "AU",
+      "state": "Australian Capital Territory",
+      "city": "Canberra",
+      "weight": 0.78
+    },
+    {
+      "name": "City News Canberra",
+      "url": "https://citynews.com.au/feed",
+      "type": "independent",
+      "country": "AU",
+      "state": "Australian Capital Territory",
+      "city": "Canberra",
+      "weight": 0.65
+    },
+    {
+      "name": "SmartCompany",
+      "url": "https://www.smartcompany.com.au/feed",
+      "type": "independent",
+      "country": "AU",
+      "weight": 0.65
+    },
+    {
+      "name": "BBC News - London",
+      "url": "https://feeds.bbci.co.uk/news/england/london/rss.xml",
+      "type": "mainstream",
+      "country": "GB",
+      "state": "England",
+      "city": "London",
+      "weight": 0.85
+    },
+    {
+      "name": "MyLondon",
+      "url": "https://www.mylondon.news/news/?service=rss",
+      "type": "mainstream",
+      "country": "GB",
+      "state": "England",
+      "city": "London",
+      "weight": 0.72
+    },
+    {
+      "name": "BBC News - England",
+      "url": "https://feeds.bbci.co.uk/news/england/rss.xml",
+      "type": "mainstream",
+      "country": "GB",
+      "state": "England",
+      "weight": 0.85
+    },
+    {
+      "name": "Manchester Evening News",
+      "url": "https://www.manchestereveningnews.co.uk/news/rss.xml",
+      "type": "mainstream",
+      "country": "GB",
+      "state": "England",
+      "city": "Manchester",
+      "weight": 0.72
+    },
+    {
+      "name": "Birmingham Mail",
+      "url": "https://www.birminghammail.co.uk/news/rss.xml",
+      "type": "mainstream",
+      "country": "GB",
+      "state": "England",
+      "city": "Birmingham",
+      "weight": 0.72
+    },
+    {
+      "name": "BBC News - Scotland",
+      "url": "https://feeds.bbci.co.uk/news/scotland/rss.xml",
+      "type": "mainstream",
+      "country": "GB",
+      "state": "Scotland",
+      "weight": 0.85
+    },
+    {
+      "name": "BBC News - Wales",
+      "url": "https://feeds.bbci.co.uk/news/wales/rss.xml",
+      "type": "mainstream",
+      "country": "GB",
+      "state": "Wales",
+      "weight": 0.85
+    },
+    {
+      "name": "Wales Online",
+      "url": "https://www.walesonline.co.uk/news/rss.xml",
+      "type": "mainstream",
+      "country": "GB",
+      "state": "Wales",
+      "weight": 0.72
+    },
+    {
+      "name": "BBC News - Northern Ireland",
+      "url": "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
+      "type": "mainstream",
+      "country": "GB",
+      "state": "Northern Ireland",
+      "weight": 0.85
+    },
+    {
+      "name": "CBC News - British Columbia",
+      "url": "https://www.cbc.ca/cmlink/rss-canada-bc",
+      "type": "mainstream",
+      "country": "CA",
+      "state": "British Columbia",
+      "weight": 0.85
+    },
+    {
+      "name": "CBC News - Toronto",
+      "url": "https://www.cbc.ca/cmlink/rss-canada-toronto",
+      "type": "mainstream",
+      "country": "CA",
+      "state": "Ontario",
+      "city": "Toronto",
+      "weight": 0.85
+    },
+    {
+      "name": "CBC News - Montreal",
+      "url": "https://www.cbc.ca/cmlink/rss-canada-montreal",
+      "type": "mainstream",
+      "country": "CA",
+      "state": "Quebec",
+      "city": "Montreal",
+      "weight": 0.85
+    },
+    {
+      "name": "CBC News - Calgary",
+      "url": "https://www.cbc.ca/cmlink/rss-canada-calgary",
+      "type": "mainstream",
+      "country": "CA",
+      "state": "Alberta",
+      "city": "Calgary",
+      "weight": 0.85
+    },
+    {
+      "name": "CBC News - Edmonton",
+      "url": "https://www.cbc.ca/cmlink/rss-canada-edmonton",
+      "type": "mainstream",
+      "country": "CA",
+      "state": "Alberta",
+      "city": "Edmonton",
+      "weight": 0.85
+    },
+    {
+      "name": "CBC News - Ottawa",
+      "url": "https://www.cbc.ca/cmlink/rss-canada-ottawa",
+      "type": "mainstream",
+      "country": "CA",
+      "state": "Ontario",
+      "city": "Ottawa",
+      "weight": 0.85
+    },
+    {
+      "name": "CBC News - Saskatchewan",
+      "url": "https://www.cbc.ca/cmlink/rss-canada-saskatoon",
+      "type": "mainstream",
+      "country": "CA",
+      "state": "Saskatchewan",
+      "weight": 0.85
+    },
+    {
+      "name": "CBC News - Manitoba",
+      "url": "https://www.cbc.ca/cmlink/rss-canada-manitoba",
+      "type": "mainstream",
+      "country": "CA",
+      "state": "Manitoba",
+      "weight": 0.85
+    },
+    {
+      "name": "Vancouver Sun",
+      "url": "https://www.vancouversun.com/feed",
+      "type": "mainstream",
+      "country": "CA",
+      "state": "British Columbia",
+      "city": "Vancouver",
+      "weight": 0.75
+    },
+    {
+      "name": "Global News Canada",
+      "url": "https://globalnews.ca/feed/",
+      "type": "mainstream",
+      "country": "CA",
+      "weight": 0.8
+    },
+    {
+      "name": "Otago Daily Times",
+      "url": "https://www.odt.co.nz/rss.xml",
+      "type": "mainstream",
+      "country": "NZ",
+      "state": "Otago",
+      "city": "Dunedin",
+      "weight": 0.72
+    },
+    {
+      "name": "RTE News",
+      "url": "https://www.rte.ie/news/rss/news-headlines.xml",
+      "type": "mainstream",
+      "country": "IE",
+      "weight": 0.88
+    },
+    {
+      "name": "The Journal Ireland",
+      "url": "https://www.thejournal.ie/feed/",
+      "type": "independent",
+      "country": "IE",
+      "weight": 0.72
+    },
+    {
+      "name": "Straits Times Singapore",
+      "url": "https://www.straitstimes.com/news/singapore/rss.xml",
+      "type": "mainstream",
+      "country": "SG",
+      "weight": 0.82
+    },
+    {
+      "name": "Channel NewsAsia",
+      "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+      "type": "mainstream",
+      "country": "SG",
+      "weight": 0.85
+    },
+    {
+      "name": "NHK World News",
+      "url": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "type": "mainstream",
+      "country": "JP",
+      "weight": 0.82
+    },
+    {
+      "name": "Japan Times",
+      "url": "https://www.japantimes.co.jp/feed/",
+      "type": "mainstream",
+      "country": "JP",
+      "weight": 0.78
+    },
+    {
+      "name": "South China Morning Post",
+      "url": "https://www.scmp.com/rss/91/feed",
+      "type": "mainstream",
+      "country": "HK",
+      "weight": 0.78
+    }
+  ]
+}
 
