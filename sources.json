@@ -194,7 +194,7 @@
     },
     {
       "name": "CBC News - British Columbia",
-      "url": "https://www.cbc.ca/cmlink/rss-canada-bc",
+      "url": "https://www.cbc.ca/webfeed/rss/rss-canada-bc",
       "type": "mainstream",
       "country": "CA",
       "state": "British Columbia",
@@ -202,7 +202,7 @@
     },
     {
       "name": "CBC News - Toronto",
-      "url": "https://www.cbc.ca/cmlink/rss-canada-toronto",
+      "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
       "type": "mainstream",
       "country": "CA",
       "state": "Ontario",
@@ -211,7 +211,7 @@
     },
     {
       "name": "CBC News - Montreal",
-      "url": "https://www.cbc.ca/cmlink/rss-canada-montreal",
+      "url": "https://www.cbc.ca/webfeed/rss/rss-canada-montreal",
       "type": "mainstream",
       "country": "CA",
       "state": "Quebec",
@@ -220,7 +220,7 @@
     },
     {
       "name": "CBC News - Calgary",
-      "url": "https://www.cbc.ca/cmlink/rss-canada-calgary",
+      "url": "https://www.cbc.ca/webfeed/rss/rss-canada-calgary",
       "type": "mainstream",
       "country": "CA",
       "state": "Alberta",
@@ -229,7 +229,7 @@
     },
     {
       "name": "CBC News - Edmonton",
-      "url": "https://www.cbc.ca/cmlink/rss-canada-edmonton",
+      "url": "https://www.cbc.ca/webfeed/rss/rss-canada-edmonton",
       "type": "mainstream",
       "country": "CA",
       "state": "Alberta",
@@ -238,7 +238,7 @@
     },
     {
       "name": "CBC News - Ottawa",
-      "url": "https://www.cbc.ca/cmlink/rss-canada-ottawa",
+      "url": "https://www.cbc.ca/webfeed/rss/rss-canada-ottawa",
       "type": "mainstream",
       "country": "CA",
       "state": "Ontario",
@@ -247,7 +247,7 @@
     },
     {
       "name": "CBC News - Saskatchewan",
-      "url": "https://www.cbc.ca/cmlink/rss-canada-saskatoon",
+      "url": "https://www.cbc.ca/webfeed/rss/rss-canada-saskatoon",
       "type": "mainstream",
       "country": "CA",
       "state": "Saskatchewan",
@@ -255,7 +255,7 @@
     },
     {
       "name": "CBC News - Manitoba",
-      "url": "https://www.cbc.ca/cmlink/rss-canada-manitoba",
+      "url": "https://www.cbc.ca/webfeed/rss/rss-canada-manitoba",
       "type": "mainstream",
       "country": "CA",
       "state": "Manitoba",
@@ -337,4 +337,3 @@
     }
   ]
 }
-
