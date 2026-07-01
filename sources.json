@@ -334,6 +334,251 @@
       "type": "mainstream",
       "country": "HK",
       "weight": 0.78
+    },
+    {
+      "name": "Star Weekly",
+      "url": "https://www.starweekly.com.au/feed",
+      "type": "independent",
+      "country": "AU",
+      "weight": 0.62,
+      "state": "Victoria",
+      "city": "Melbourne"
+    },
+    {
+      "name": "Border Mail Albury",
+      "url": "https://www.bordermail.com.au/rss.xml",
+      "type": "mainstream",
+      "country": "AU",
+      "weight": 0.62,
+      "state": "Victoria",
+      "city": "Albury"
+    },
+    {
+      "name": "Bendigo Advertiser",
+      "url": "https://www.bendigoadvertiser.com.au/rss.xml",
+      "type": "mainstream",
+      "country": "AU",
+      "weight": 0.65,
+      "state": "Victoria",
+      "city": "Bendigo"
+    },
+    {
+      "name": "Newcastle Herald",
+      "url": "https://www.newcastleherald.com.au/rss.xml",
+      "type": "mainstream",
+      "country": "AU",
+      "weight": 0.68,
+      "state": "New South Wales",
+      "city": "Newcastle"
+    },
+    {
+      "name": "Illawarra Mercury",
+      "url": "https://www.illawarramercury.com.au/rss.xml",
+      "type": "mainstream",
+      "country": "AU",
+      "weight": 0.65,
+      "state": "New South Wales",
+      "city": "Wollongong"
+    },
+    {
+      "name": "Daily Liberal Dubbo",
+      "url": "https://www.dailyliberal.com.au/rss.xml",
+      "type": "mainstream",
+      "country": "AU",
+      "weight": 0.62,
+      "state": "New South Wales",
+      "city": "Dubbo"
+    },
+    {
+      "name": "The West Australian",
+      "url": "https://thewest.com.au/feed",
+      "type": "mainstream",
+      "country": "AU",
+      "weight": 0.8,
+      "state": "Western Australia",
+      "city": "Perth"
+    },
+    {
+      "name": "Geraldton Guardian",
+      "url": "https://www.geraldtonguardian.com.au/feed",
+      "type": "mainstream",
+      "country": "AU",
+      "weight": 0.6,
+      "state": "Western Australia",
+      "city": "Geraldton"
+    },
+    {
+      "name": "The Examiner Launceston",
+      "url": "https://www.examiner.com.au/rss.xml",
+      "type": "mainstream",
+      "country": "AU",
+      "weight": 0.65,
+      "state": "Tasmania",
+      "city": "Launceston"
+    },
+    {
+      "name": "Stuff NZ",
+      "url": "https://www.stuff.co.nz/feed",
+      "type": "mainstream",
+      "country": "NZ",
+      "weight": 0.8
+    },
+    {
+      "name": "The Guardian UK",
+      "url": "https://www.theguardian.com/rss",
+      "type": "mainstream",
+      "country": "GB",
+      "weight": 0.88,
+      "state": "England",
+      "city": "London"
+    },
+    {
+      "name": "The Independent",
+      "url": "https://www.independent.co.uk/rss",
+      "type": "mainstream",
+      "country": "GB",
+      "weight": 0.82,
+      "state": "England",
+      "city": "London"
+    },
+    {
+      "name": "Daily Mirror",
+      "url": "https://www.mirror.co.uk/rss.xml",
+      "type": "mainstream",
+      "country": "GB",
+      "weight": 0.72,
+      "state": "England"
+    },
+    {
+      "name": "Ottawa Citizen",
+      "url": "https://www.ottawacitizen.com/feed",
+      "type": "mainstream",
+      "country": "CA",
+      "weight": 0.72,
+      "state": "Ontario",
+      "city": "Ottawa"
+    },
+    {
+      "name": "Edmonton Journal",
+      "url": "https://www.edmontonjournal.com/feed",
+      "type": "mainstream",
+      "country": "CA",
+      "weight": 0.72,
+      "state": "Alberta",
+      "city": "Edmonton"
+    },
+    {
+      "name": "Calgary Herald",
+      "url": "https://www.calgaryherald.com/feed",
+      "type": "mainstream",
+      "country": "CA",
+      "weight": 0.72,
+      "state": "Alberta",
+      "city": "Calgary"
+    },
+    {
+      "name": "The Province Vancouver",
+      "url": "https://www.theprovince.com/feed",
+      "type": "mainstream",
+      "country": "CA",
+      "weight": 0.7,
+      "state": "British Columbia",
+      "city": "Vancouver"
+    },
+    {
+      "name": "Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/feed",
+      "type": "mainstream",
+      "country": "CA",
+      "weight": 0.72,
+      "state": "Manitoba",
+      "city": "Winnipeg"
+    },
+    {
+      "name": "Liverpool Echo",
+      "url": "https://www.liverpoolecho.co.uk/rss.xml",
+      "type": "mainstream",
+      "country": "GB",
+      "weight": 0.7,
+      "state": "England",
+      "city": "Liverpool"
+    },
+    {
+      "name": "Bristol Post",
+      "url": "https://www.bristolpost.co.uk/rss.xml",
+      "type": "mainstream",
+      "country": "GB",
+      "weight": 0.68,
+      "state": "England",
+      "city": "Bristol"
+    },
+    {
+      "name": "Times Colonist Victoria",
+      "url": "https://www.timescolonist.com/rss",
+      "type": "mainstream",
+      "country": "CA",
+      "weight": 0.68,
+      "state": "British Columbia",
+      "city": "Victoria"
+    },
+    {
+      "name": "Irish Independent",
+      "url": "https://www.independent.ie/rss/",
+      "type": "mainstream",
+      "country": "IE",
+      "weight": 0.78,
+      "city": "Dublin"
+    },
+    {
+      "name": "Nottingham Post",
+      "url": "https://www.nottinghampost.com/rss.xml",
+      "type": "mainstream",
+      "country": "GB",
+      "weight": 0.68,
+      "state": "England",
+      "city": "Nottingham"
+    },
+    {
+      "name": "Glasgow Live",
+      "url": "https://www.glasgowlive.co.uk/rss.xml",
+      "type": "mainstream",
+      "country": "GB",
+      "weight": 0.68,
+      "state": "Scotland",
+      "city": "Glasgow"
+    },
+    {
+      "name": "Edinburgh Live",
+      "url": "https://www.edinburghlive.co.uk/rss.xml",
+      "type": "mainstream",
+      "country": "GB",
+      "weight": 0.68,
+      "state": "Scotland",
+      "city": "Edinburgh"
+    },
+    {
+      "name": "South China Morning Post",
+      "url": "https://www.scmp.com/news/rss.xml",
+      "type": "mainstream",
+      "country": "HK",
+      "weight": 0.78
+    },
+    {
+      "name": "The Herald Scotland",
+      "url": "https://www.heraldscotland.com/news/rss",
+      "type": "mainstream",
+      "country": "GB",
+      "weight": 0.78,
+      "state": "Scotland",
+      "city": "Glasgow"
+    },
+    {
+      "name": "Irish Examiner",
+      "url": "https://www.irishexaminer.com/feed/35-top_news.xml",
+      "type": "mainstream",
+      "country": "IE",
+      "weight": 0.78,
+      "city": "Cork"
     }
   ]
 }
