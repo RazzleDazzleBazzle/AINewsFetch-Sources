@@ -1,0 +1,37 @@
+# AINewsFetch-Sources
+
+Community-maintained list of RSS/Atom news feeds for the **AI NewsFetch** iOS/macOS app.
+
+Feeds in this list are fetched automatically by the app and merged with its built-in sources. Changes go live to all users within 24 hours — no app update required.
+
+---
+
+## How to contribute
+
+### Suggest a feed (easy)
+Open a [GitHub Issue](../../issues/new) with the feed name, URL, country, and city/region. The maintainer will verify and add it.
+
+### Submit a pull request
+1. Fork this repo
+2. Edit `sources.json` — add your entry to the `sources` array
+3. Verify the feed URL is live (paste it into a browser or RSS reader)
+4. Open a pull request with a brief description
+
+PRs are reviewed before merging. Feeds that return valid RSS/Atom and aren't paywalled/bot-blocked will generally be accepted.
+
+---
+
+## JSON format
+
+Each entry in the `sources` array:
+
+```json
+{
+  "name": "Some Local Paper",
+  "url": "https://somelocalsite.com/feed",
+  "type": "independent",
+  "country": "AU",
+  "state": "Victoria",
+  "city": "Geelong",
+  "weight": 0.65
+}
