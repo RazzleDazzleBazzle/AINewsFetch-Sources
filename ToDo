@@ -1,0 +1,20 @@
+A few practical approaches, from least to most effort:
+
+1. Manual research (highest quality)
+• Search "local news [city] RSS" or "[publication] RSS feed"
+• Regional press associations often maintain directories (e.g. Regional Media Australia, News Media Canada)
+• Wikipedia's "newspapers in [state/country]" pages are a good starting point for finding publication names, then you check if they have feeds
+
+2. OPML directories (ready-made lists)
+• Sites like Feedspot, AllTop, and NewsBlur maintain categorised feed directories
+• You can scrape these for domain names to add to SEEDS
+• Quality varies — many are stale
+
+3. Google search patterns
+• site:*.com​.au inurl:"/feed" finds Australian WordPress sites with feeds
+• "rss​.xml" "local news" [city] surfaces feeds directly
+• These can be batch-processed to extract domains
+
+4. Existing RSS aggregators
+• Inoreader, Feedly, and NewsBlur all have public "popular feeds by category/region" pages
+• These are pre-vetted and actively read, so higher quality signal
