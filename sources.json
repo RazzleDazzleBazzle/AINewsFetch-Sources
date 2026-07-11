@@ -579,6 +579,14 @@
       "country": "IE",
       "weight": 0.78,
       "city": "Cork"
+    },
+    {
+      "name": "Irish Independent",
+      "url": "https://www.independent.ie/rss",
+      "type": "mainstream",
+      "country": "IE",
+      "weight": 0.78,
+      "city": "Dublin"
     }
   ]
 }
