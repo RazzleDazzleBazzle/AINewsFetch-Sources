@@ -587,6 +587,15 @@
       "country": "IE",
       "weight": 0.78,
       "city": "Dublin"
+    },
+    {
+      "name": "Toronto Star",
+      "url": "http://www.thestar.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5B%5D=%23topstory",
+      "type": "mainstream",
+      "country": "CA",
+      "weight": 0.8,
+      "state": "Ontario",
+      "city": "Toronto"
     }
   ]
 }
